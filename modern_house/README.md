@@ -6,7 +6,7 @@ A modern architectural 3D house model created in Blender, featuring a contempora
 
 ## Preview
 
-![Modern House Render](render-1.png)
+![Modern House Render](modernHouse.png)
 
 ---
 
