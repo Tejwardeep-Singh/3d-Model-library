@@ -1,9 +1,14 @@
 # 3D Model Library
 
-A curated collection of custom 3D models created in Blender, including renders and export-ready assets in GLB and FBX formats.
+<p align="center">
+  <img src="assets/banner.png" alt="3D Model Library Banner" width="100%">
+</p>
+
+<p align="center">
+  A curated collection of Blender-made 3D models including architecture, interiors, props, environments, and experimental designs.
+</p>
 
 ---
-
 ## Repository Structure
 
 ```txt
