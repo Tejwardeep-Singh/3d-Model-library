@@ -6,7 +6,7 @@ A stylized 3D clock tower concept created in Blender, inspired by modern monumen
 
 ## Preview
 
-![Clock Tower Render](render-1.png)
+![Clock Tower Render](render1.png)
 
 ---
 

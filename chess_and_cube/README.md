@@ -6,7 +6,7 @@ A realistic 3D render created in Blender featuring a stylized chess board setup 
 
 ## Preview
 
-![Chess Scene Render](chessandcube.png)
+![Chess Scene Render](render1.png)
 
 ---
 

@@ -6,7 +6,7 @@ A futuristic skyscraper concept designed and rendered in Blender, featuring mode
 
 ## Preview
 
-![Futuristic Skyscraper Render](skyscrapper.png)
+![Futuristic Skyscraper Render](render1.png)
 
 ---
 

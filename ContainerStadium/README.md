@@ -6,7 +6,7 @@ A futuristic stadium concept designed entirely using modular shipping containers
 
 ## Preview
 
-![Container Stadium Render](containerStadium.png)
+![Container Stadium Render](render1.png)
 
 ---
 
