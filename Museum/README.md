@@ -6,7 +6,7 @@ A futuristic circular museum concept designed and rendered in Blender, featuring
 
 ## Preview
 
-![Museum Render](render-1.png)
+![Museum Render](render1.png)
 
 ---
 
